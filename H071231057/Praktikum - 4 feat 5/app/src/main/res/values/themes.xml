@@ -1,0 +1,29 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Tuprak40" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Primary colors -->
+        <item name="colorPrimary">#4CAF50</item>
+        <item name="colorPrimaryVariant">#3B8E3F</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+
+        <!-- Secondary colors -->
+        <item name="colorSecondary">#E91E63</item>
+        <item name="colorSecondaryVariant">#C2185B</item>
+        <item name="colorOnSecondary">#FFFFFF</item>
+
+        <!-- Background colors -->
+        <item name="android:colorBackground">#191919</item>
+        <item name="colorSurface">#292a2d</item>
+        <item name="colorOnSurface">#FFFFFF</item>
+
+        <!-- Status bar and nav bar color -->
+        <item name="android:statusBarColor">#000000</item>
+        <item name="android:navigationBarColor">#000000</item>
+
+        <!-- Prevent fullscreen keyboard issue -->
+        <item name="android:windowTranslucentStatus">false</item>
+        <item name="android:windowTranslucentNavigation">false</item>
+    </style>
+
+    <style name="Theme.Tuprak40" parent="Base.Theme.Tuprak40" />
+</resources>
