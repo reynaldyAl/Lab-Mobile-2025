@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorPrimary">#4CAF50</color>
+    <color name="colorPrimaryDark">#3A8A3F</color>
+    <color name="colorAccent">#4CAF50</color>
+    <color name="green">#4CAF50</color>
+    <color name="background_dark">#121212</color>
+    <color name="background_card">#1D1D1D</color>
+    <color name="text_white">#FFFFFF</color>
+    <color name="text_gray">#CCCCCC</color>
+    <color name="error_red">#FF5252</color>
+
+
+</resources>
